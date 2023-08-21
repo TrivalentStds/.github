@@ -1,10 +1,16 @@
-# Trivalent Studios 🐈‍⬛〰️
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74553272/241216115-0d8709e1-dd8d-4a84-8159-faf50e8cfabb.png" height="320px">
+![TrivalentBanner](https://github.com/trivalentcorp/.github/assets/74553272/4fb738b3-fd16-4dda-a2ce-9553213a2b8d)
 
+# Trivalent Corporation
+We are an autonomous technology team dedicated to developing innovative products with the goal of enhancing users' day-to-day experiences.
 
-<h3> About: </h3>
-We are a small team of game developers. We currently only have one member (which is a bit sad), so 
-if you want to be part of the team, don't hesitate to send us a message!
+<ul>
+  <li><a href="github.com/trivalentcorp/repositories">Explore our open source projects</a></li>
+   <li><a href="trivalent.github.io/trivalent">Trivalent Official Website</a></li>
+  <li><a href="trivalent.github.io/trivalent/jobs">Apply for Trivalent Group</a></li>
+</ul>
 
-<a href="https://twitter.com/trivalentstudio">@valentstudios</a>
+Take a look at our projects and if you like, give us a hand :)
 
+<hr>
+
+<sup><sub>lucasof inc</sub></sup>
